@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Appeared new folder .git. I need to do it to use this folder flor my repository.
