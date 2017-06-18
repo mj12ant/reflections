@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Appeared new folder .git. I need to do it to use this folder flor my repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area used for select files that you want to add to your repository.
