@@ -5,3 +5,23 @@ Appeared new folder .git. I need to do it to use this folder flor my repository.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area used for select files that you want to add to your repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+git diff
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches really helpful to test some new cool features that you don’t want to add right now to the main branch.
+
+How do the diagrams help you visualize the branch structure?
+
+It makes information about versions more clear.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It continues as one branch (that was be currently checked out).
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+You don’t need to do all of tedious work by hands.
